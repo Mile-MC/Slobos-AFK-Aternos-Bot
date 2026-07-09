@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MC_EQ180.aternos.me:31155",
+    "ip": "MC_EQ180.aternos.me",
     "port": 31155,
     "version": "",
     "try-creative": false
